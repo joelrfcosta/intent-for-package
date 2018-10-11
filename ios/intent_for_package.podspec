@@ -3,10 +3,10 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'intent_for_package'
-  s.version          = '0.0.1'
-  s.summary          = 'A new flutter plugin project.'
+  s.version          = '0.1.0'
+  s.summary          = 'Intent for package plugin'
   s.description      = <<-DESC
-A new flutter plugin project.
+Intent for package plugin
                        DESC
   s.homepage         = 'http://example.com'
   s.license          = { :file => '../LICENSE' }
