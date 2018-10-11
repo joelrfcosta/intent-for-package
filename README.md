@@ -1,4 +1,4 @@
-# Sky Map Plugin for Flutter
+# Intent for package plugin for Flutter
 
 ## Getting Started
 
