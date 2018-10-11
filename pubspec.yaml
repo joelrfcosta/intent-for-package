@@ -1,0 +1,21 @@
+name: intent_for_package
+description: Flutter plugin for launching Sky Map. Not supported on iOS.
+author: Joel Costa <joelrfcosta@gmail.com>
+homepage: https://github.com/joelrfcosta/intent-for-package
+version: 0.1.0
+
+flutter:
+  plugin:
+    androidPackage: com.sadcoat.flutter.plugins.intentforpackage
+    iosPrefix: FLT
+    pluginClass: IntentForPackagePlugin
+
+dependencies:
+  flutter:
+    sdk: flutter
+  platform: ^2.0.0
+  meta: ^1.0.5
+
+environment:
+  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  flutter: ">=0.1.4 <2.0.0"

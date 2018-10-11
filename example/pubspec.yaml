@@ -1,0 +1,12 @@
+name: intent_for_package_example
+description: Demonstrates how to use the intent_for_package plugin.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intent_for_package:
+    path: ../    
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
