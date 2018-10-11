@@ -1,8 +1,8 @@
 name: intent_for_package
-description: Flutter plugin for launching Sky Map. Not supported on iOS.
+description: Flutter plugin for launching the main intent for a package. Not supported on iOS.
 author: Joel Costa <joelrfcosta@gmail.com>
 homepage: https://github.com/joelrfcosta/intent-for-package
-version: 0.1.0
+version: 0.1.1
 
 flutter:
   plugin:
